@@ -1,2 +1,3 @@
-## <strong align="center">Hi!</strong>
-# <span align="center">I'm Jonathan Tiano</span>
+<strong align="center">Hi! 👋</strong>
+<span align="center">I'm Jonathan Tiano</span>
+------------
