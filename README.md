@@ -1,3 +1,4 @@
-<strong align="center">Hi! 👋</strong>
-<span align="center">I'm Jonathan Tiano</span>
+<div align="center">Hi! 👋</div>
+<div align="center">I'm Jonathan Tiano</div>
+
 ------------
