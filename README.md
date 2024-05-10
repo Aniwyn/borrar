@@ -1,5 +1,5 @@
 <h3 align="center">Hi! 👋</h3>
-<h3 align="center">Soy Jonathan Tiano</h3>
+<h2 align="center">Soy Jonathan Tiano</h2>
 
 ------------
 Soy una persona autodidacta, dedicada al aprendizaje y la mejora continua, siempre doy lo mejor de mí en todo lo que hago. Mi compromiso es brindar interfaces de usuario elegantes, arquitecturas sólidas y código de alta calidad en mis trabajos.
@@ -17,7 +17,7 @@ Actualmente estoy estudiando Ingeniería Informática y estoy a punto de complet
 ## Habilidades
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" src="" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" src="" height="40" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" height="40"/>
@@ -45,8 +45,8 @@ Actualmente estoy estudiando Ingeniería Informática y estoy a punto de complet
 </div>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" height="40"/>
 </div>
