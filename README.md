@@ -6,8 +6,14 @@ Soy una persona autodidacta, dedicada al aprendizaje y la mejora continua, siemp
 
 Actualmente estoy estudiando Ingeniería Informática y estoy a punto de completar mis últimas materias, espero poder recibirme pronto. Además, he complementado mi formación con varios cursos, especialmente enfocados en el desarrollo web, como la certificación de Full Stack Developer que realicé en Digital House.
 
-### 🪐 Un poco más de mí
+## 🪐 Un poco más de mí
 
 📚 Me encanta el café y leer (cliché, lo sé)
+
+✍️ Me siento cómodo aprendiendo nuevas tecnologías y alternando entre ellas
+
+☀️ Team verano
+
+## Habilidades
 
 
